@@ -76,6 +76,7 @@ click_rate (Target Variable) - Click rate of an email campaign
 **MODEL TESTING**
 
 **----------------------------------------------------------------------------------------------------------------**
+
 **Evaluation File Format:**
 --------------------------------
 data_to_test.csv contains 2 variables - campaign id and click_rate
